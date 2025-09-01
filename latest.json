@@ -1,0 +1,18 @@
+{
+  "version": "1.1.0",
+  "notes": "• Correção do gráfico de O2\n• Novo modo de leitura rápida CAN\n• Ajustes UI 1024x576",
+  "assets": [
+    {
+      "platform": "windows",
+      "url": "https://github.com/Luc1603/scanner-automotivo/releases/latest/download/CarProScan.exe",
+      "size": 48732216,
+      "sha256": "a3b7...e9"
+    },
+    {
+      "platform": "generic",
+      "url": "https://github.com/Luc1603/scanner-automotivo/releases/latest/download/CarProScan.exe",
+      "size": 31200451,
+      "sha256": "d2c1...5a"
+    }
+  ]
+}
