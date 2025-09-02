@@ -5,15 +5,16 @@
         {
             "platform": "windows",
             "url": "https://github.com/Luc1603/scanner-automotivo/releases/latest/download/CarProScan.exe",
-            "size": 42700,
+            "size": 41700,
             "sha256": "59cb83b5fbda87fed788a2d4e6a1c6af799ed38d056ed35a9f9d10999033145c"
         },
         {
             "platform": "generic",
             "url": "https://github.com/Luc1603/scanner-automotivo/releases/latest/download/CarProScan.exe",
-            "size": 42700,
+            "size": 41700,
             "sha256": "59cb83b5fbda87fed788a2d4e6a1c6af799ed38d056ed35a9f9d10999033145c"
         }
     ]
 }
+
 
