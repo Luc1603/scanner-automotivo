@@ -1,6 +1,6 @@
 {
     "version": "1.1.0",
-    "notes": "• Correção do gráfico de O2\n• Novo modo de leitura rápida CAN\n• Ajustes UI 1024x576\n* Simulação de atualização",
+    "notes": "• Correção do gráfico de O2\n• Novo modo de leitura rápida CAN\n• Ajustes UI 1024x576\n* Simulação de atualização\n* Teste de tempo",
     "assets": [
         {
             "platform": "windows",
@@ -16,6 +16,7 @@
         }
     ]
 }
+
 
 
 
