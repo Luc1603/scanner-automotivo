@@ -1,21 +1,22 @@
 {
     "version": "1.1.0",
-    "notes": "• Correção do gráfico de O2\n• Novo modo de leitura rápida CAN\n• Ajustes UI 1024x576",
+    "notes": "• Correção do gráfico de O2\n• Novo modo de leitura rápida CAN\n• Ajustes UI 1024x576\n* Correção Resolução da Tela de Seleção de Pids\n* Correção da Tela de Verificação de Atualização",
     "assets": [
         {
             "platform": "windows",
             "url": "https://github.com/Luc1603/scanner-automotivo/releases/latest/download/CarProScan.exe",
-            "size": 40200000,
-            "sha256": "de2ce5e2eb336e5e048cb4f36402907ada2c4b6d5efa8f5afc2cdb7efaa16661"
+            "size": 38.72,
+            "sha256": "524dac5e0fc9c3f75716cf0e1d2d20774657dededced08f6122ba6d78c2afba2"
         },
         {
             "platform": "generic",
             "url": "https://github.com/Luc1603/scanner-automotivo/releases/latest/download/CarProScan.exe",
-            "size": 40200000,
-            "sha256": "de2ce5e2eb336e5e048cb4f36402907ada2c4b6d5efa8f5afc2cdb7efaa16661"
+            "size": 38.72,
+            "sha256": "524dac5e0fc9c3f75716cf0e1d2d20774657dededced08f6122ba6d78c2afba2"
         }
     ]
 }
+
 
 
 
