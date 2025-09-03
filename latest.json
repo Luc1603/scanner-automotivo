@@ -1,5 +1,5 @@
 {
-    "version": "1.2.1",
+    "version": "1.0.0",
     "notes": "• Correção do gráfico de O2\n• Novo modo de leitura rápida CAN\n• Ajustes UI 1024x576\n• Correção Resolução da Tela de Seleção de Pids\n• Correção da Tela de Verificação de Atualização",
     "assets": [
         {
@@ -16,6 +16,7 @@
         }
     ]
 }
+
 
 
 
